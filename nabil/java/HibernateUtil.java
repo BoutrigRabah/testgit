@@ -34,3 +34,7 @@ public class HibernateUtil {
         return sessionFactory;
     }
 }
+public String f()
+{
+    return "el hajjioui nabil";
+}
